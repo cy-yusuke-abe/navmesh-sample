@@ -113,14 +113,6 @@ crashlytics.properties
 crashlytics-build.properties
 fabric.properties
 
-# Cosmos Build Tool OutPut
-/AssetBundles/
-/CosmosXcode/
-*.apk
-/Assets/Data/
-/Assets/Data.meta
-build.log
-
 # Doxygen Output
 /doc
 
